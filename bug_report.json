@@ -1,1 +1,8 @@
-
+{
+  "id":1,
+  "summary":"Button [Open] is not clickable on the main page",
+  "expected result":"[Open] clickable",
+  "actual result":"[Open] not clickable",
+  "severity":"blocker",
+  "priority":"ASAP"
+}
